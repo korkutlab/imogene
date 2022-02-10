@@ -1,6 +1,8 @@
 
 # imogimap
 
+**Work has been moved here: https://github.com/korkutlab/imogimap**
+
 <!-- badges: start -->
 <!-- badges: end -->
 
